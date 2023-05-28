@@ -2,7 +2,6 @@ import React from "react";
 import Image from "next/image";
 import SideBarMenuItem from "./SideBarMenuItem";
 import { HiHome } from "react-icons/hi";
-//import HomeIcon from "@heroicons/react/20/solid";
 import { HiHashtag } from "react-icons/hi";
 import {
   HiOutlineBell,
